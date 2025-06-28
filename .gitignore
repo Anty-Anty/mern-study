@@ -6,4 +6,4 @@
 .pnp.js
 
 # development
-.nodemon.json
+nodemon.json
